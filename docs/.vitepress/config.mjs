@@ -79,7 +79,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/Whimsies-YAT/misskey' },
         ],
       footer: {
-          copyright: "This Page Use MIT Licensed | Copyright © 2024 torishiro.com運営チーム™",
+          copyright: "This Page Use MIT Licensed | Copyright © 2024 torishiro.com運営チーム",
           message: ""
         },
         search: {
