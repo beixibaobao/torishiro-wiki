@@ -1,6 +1,6 @@
 ### **侧边栏**
 
-![](C:\Users\Hikurn\Downloads\image (5).png)
+![](/images/image(5).png)
 
 ​	这些侧边栏是可以自行编辑调整的，当然，这些需要在设置中去调整。
 

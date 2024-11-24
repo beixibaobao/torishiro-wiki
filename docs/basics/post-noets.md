@@ -16,7 +16,7 @@
 
 ### **功能解析**
 
-![功能解析1](C:\Users\Hikurn\Downloads\image.png)
+![功能解析1](/images/image.png)
 
 ​	看上去很眼花缭乱，请让我依次为您介绍。
 
@@ -52,7 +52,7 @@
 
 ​	为了保证良好的沟通行为，请务必对上诉内容启动隐藏内容按钮
 
-![](C:\Users\Hikurn\Downloads\image (1).png)
+![](/images/image-1.png)
 
 ​	（10）提及某人
 

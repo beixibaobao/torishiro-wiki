@@ -6,7 +6,7 @@
 
 ​	先看实物图功能板！
 
-![](C:\Users\Hikurn\Downloads\image (2).png)
+![](/images/image(2).png)
 
 ### **（1）回复**
 
@@ -22,7 +22,7 @@
 
 ​	转发到频道，就是你只是把这个帖子转发到本地服务器中的某个有趣的频道中。
 
-![](C:\Users\Hikurn\Downloads\image (3).png)
+![](/images/image(3).png)
 
 ​	转发后，您可在上图所示位置进行取消转发等操作。
 
@@ -50,7 +50,7 @@
 
 ​            2.     对别人的帖子
 
-![](C:\Users\Hikurn\Downloads\image (4).png)
+![](/images/image(4).png)
 
 ​	详情、复制内容、复制链接、转到所在服务器显示、分享、翻译
 
