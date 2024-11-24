@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as t}from"./chunks/framework.BQmytedh.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"basics/q&a.md","filePath":"basics/q&a.md","lastUpdated":1732412554000}'),s={name:"basics/q&a.md"};function c(r,o,n,i,d,p){return t(),e("div")}const f=a(s,[["render",c]]);export{m as __pageData,f as default};
