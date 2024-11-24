@@ -79,7 +79,7 @@ export default defineConfig({
           { icon: 'github', link: 'https://github.com/Whimsies-YAT/misskey' },
         ],
       footer: {
-          copyright: "Fuukei Sponsored by <a href='https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral' target='_blank'> <img alt='upyun-logo' src='https://s.nmxc.ltd/basics_vision/@2.6/options/upyun_logo.webp'  style='display:inline-block;vertical-align:middle;width:60px;height:30px;'/></a> | This Page Use MIT Licensed | Copyright © 2020-2023 Fuukei™",
+          copyright: "This Page Use MIT Licensed | Copyright © 2024 torishiro.com運営チーム™",
           message: ""
         },
         search: {
