@@ -22,7 +22,7 @@ features:
     details: 无论您的朋友在 Fediverse 的哪个角落，使用的是 Misskey 、 Pleroma 、 Mastodon 或是任何其他支持 ActivityPub 协议的软件，您都可以轻松关注、互动，共享美好社交生活.
   - icon: ⚡️
     title: 刷新速度
-    details: 使用cloudflare，让你无论在哪儿都能比较高效的访问。
+    details: 使用cloudflare，让您无论在哪儿都能比较高效的访问。
   - icon: 🛠️
     title: 开放源代码
     details: 鸟白岛Torishiro是一款基于 Misskey 平台进行针对性修改的社交平台实例，您可以在 GitHub 访问到我们所有的源代码。
