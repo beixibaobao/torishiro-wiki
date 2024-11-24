@@ -13,16 +13,20 @@ export default defineConfig({
       
       sidebar: {
         '/preamble/': [
-          {text: '概括',
+          {
+            text: '概括',
             items: [
               { text: '认识Misskey', link: '/preamble/about-misskey/' },
               { text: '寻找实例', link: '/preamble/find-instance/'},
               { text: '账号', link: '/preamble/account/'},
               { text: '常见问题', link: '/preamble/q&a/'},
-          ]},
-        ],
-        '/basics/': [
-          {text: '基础知识',
+          ]
+        }
+      ],
+
+      '/basics/': [
+        {
+          text: '基础知识',
           items: [
             { text: '发帖', link: '/basics/post-noets/' },
             { text: '时间轴', link: '/basics/timeline/' },
@@ -35,8 +39,9 @@ export default defineConfig({
               ]},
             { text: '其他', link: '/basics/other/' },
             { text: '常见问题', link: '/basics/q&a/'},
-          ]},
-        ],       
+          ]
+        }
+      ],       
         'torishiro': [
           {text: '更新日志',
             items: [
