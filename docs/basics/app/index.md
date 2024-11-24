@@ -12,4 +12,4 @@ Misskey 集成了 PWA 模块，可以在支持的环境上将网页作为应用�
 当然，您依旧可以使用[Aria for Misskey](https://apps.apple.com/app/aria-for-misskey/id6499410880)来简约的使用，
 
 ## 安卓
-如果您使用的是安卓手机（华为设备鸿蒙Next除外），我们推荐您使用[Aria for Misskey](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)。
+如果您使用的是安卓手机（华为设备鸿蒙Next除外），我们推荐您使用[Aria for Misskey](https://play.google.com/store/apps/details?id=com.poppingmoon.aria)。当然，如果您的设备不方便通过谷歌下载，您也可以通过[GitHub](https://github.com/poppingmoon/aria)的方式获取离线安装包。
