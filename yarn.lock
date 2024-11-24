@@ -2788,6 +2788,7 @@ yaml-js@0.0.8:
 
 yarn@^1.22.19:
   version "1.22.22"
+  integrity sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg==
 
 yauzl@^2.4.2:
   version "2.10.0"

@@ -11,15 +11,18 @@ export default defineConfig({
       logo: 'https://sa.torishiro.com/misskey/d888c9f4-6edc-4e07-ae70-e38523edc1bc.png',
       siteTitle: '鸟白岛Torishiro',
       
-      sidebar: [
-        {text: '概括',
-          items: [
-            { text: '认识Misskey', link: '/preamble/about-misskey/' },
-            { text: '寻找实例', link: '/preamble/find-instance/'},
-            { text: '账号', link: '/preamble/account/'},
-            { text: '常见问题', link: '/preamble/q&a/'},
-        ]},
-        {text: '基础知识',
+      sidebar: {
+        '/preamble/': [
+          {text: '概括',
+            items: [
+              { text: '认识Misskey', link: '/preamble/about-misskey/' },
+              { text: '寻找实例', link: '/preamble/find-instance/'},
+              { text: '账号', link: '/preamble/account/'},
+              { text: '常见问题', link: '/preamble/q&a/'},
+          ]},
+        ],
+        '/basics/': [
+          {text: '基础知识',
           items: [
             { text: '发帖', link: '/basics/post-noets/' },
             { text: '时间轴', link: '/basics/timeline/' },
@@ -32,16 +35,21 @@ export default defineConfig({
               ]},
             { text: '其他', link: '/basics/other/' },
             { text: '常见问题', link: '/basics/q&a/'},
-        ]},
-        {text: '更新日志',
-          items: [
-            { text: '更新日志', link: '/torishiro/Update-Log/' }
-        ]},
-        {text: '进阶知识',
-          items: [
-            { text: 'MFM', link: '/advanced/mfm/' },
-        ]}
-      ],
+          ]},
+        ],       
+        'torishiro': [
+          {text: '更新日志',
+            items: [
+              { text: '更新日志', link: '/torishiro/Update-Log/' }
+          ]},
+        ],
+        '/advanced/': [
+          {text: '进阶知识',
+            items: [
+              { text: 'MFM', link: '/advanced/mfm/' },
+          ]}
+        ],
+      },
       nav: [
           { text: '主页', link: '/'},
           {text: '概括',
