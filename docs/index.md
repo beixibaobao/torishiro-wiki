@@ -7,7 +7,7 @@ hero:
   text: 一个相对包容的Miskkey实例
   tagline: 在这里我们会提供许多可以公开的文档，希望能为您提供帮助，预祝您使用愉快。 🎉
   image:
-    src: /img/home.png
+    src: /images/d888c9f4-6edc-4e07-ae70-e38523edc1bc.png
     alt: 背景图
   actions:
     - theme: brand
