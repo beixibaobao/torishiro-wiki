@@ -2,8 +2,8 @@
   "name": "wiki_site",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Fuukei/wiki_site.git",
-  "author": "楠ちゃん <kusu@kusu.moe>",
+  "repository": "https://github.com/beixibaobao/torishiro-wiki.git",
+  "author": "torishiro.com運営チーム <help@torishiro.com>",
   "license": "MIT",
   "scripts": {
     "docs:dev": "vitepress dev docs",
