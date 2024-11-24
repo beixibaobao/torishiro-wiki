@@ -6,7 +6,7 @@
 
 ​	先看实物图功能板！
 
-![](/images/image(2).png)
+![](/images/image-2.png)
 
 ### **（1）回复**
 
