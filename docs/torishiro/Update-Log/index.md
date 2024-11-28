@@ -2,6 +2,8 @@
 outline: deep
 ---
 
+# 更新日志
+
 ## Misskey For Hashi
 
 ### Ver 11.0.20241108.1-DEV 
