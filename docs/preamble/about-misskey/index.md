@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-# 关于Misskey
+# 认识Misskey
 
 ​        Misskey是一个去中心化开源社交平台。
 
