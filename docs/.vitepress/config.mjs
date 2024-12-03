@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress';
 
 export default defineConfig({
   title: '鸟白岛Torishiro使用指南',
+  description:'这是一个Help文档，它是专门针对鸟白岛Torishiro实例存在的。',
   head:[
     ['link', { rel: 'icon', href: 'https://sa.torishiro.com/misskey/d888c9f4-6edc-4e07-ae70-e38523edc1bc.png' }],
     ["script", { src: '/js/main.js'}],
