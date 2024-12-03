@@ -98,7 +98,7 @@ export default defineConfig({
           }
         },
         editLink: {
-          pattern: 'https://github.com/beixibaobao/torishiro-wiki/edit/main/:path',
+          pattern: 'https://github.com/beixibaobao/torishiro-wiki/edit/master/:path',
           text: '在GitHub上编辑'
         },
         socialLinks: [
