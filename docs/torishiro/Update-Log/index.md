@@ -8,6 +8,12 @@ outline: deep
 
 ## Misskey For Hashi
 
+### 11.1.20241208.2-DEV 
+
+Misskey For Hashi Ver 11.0.20241208.2-DEV 更新
+
+1. 修复注册审核模式中的一个bug【未开启注册审核模式前的过期验证问题】；
+
 ### 11.1.20241208.1-DEV 
 
 Misskey For Hashi Ver 11.0.20241208.1-DEV 更新
