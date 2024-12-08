@@ -8,6 +8,12 @@ outline: deep
 
 ## Misskey For Hashi
 
+### 11.1.20241208.3-DEV 
+
+Misskey For Hashi Ver 11.0.20241208.3-DEV 更新
+
+1. 增加验证过期。如果开启邮箱验证，超过30分钟未进行邮箱验证，下一个准点将会被删除；**【首发】**
+
 ### 11.1.20241208.2-DEV 
 
 Misskey For Hashi Ver 11.0.20241208.2-DEV 更新
