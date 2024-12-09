@@ -8,6 +8,12 @@ outline: deep
 
 ## Misskey For Hashi
 
+### 11.1.20241209.1-DEV 
+
+Misskey For Hashi Ver 11.0.20241209.1-DEV 更新
+
+1. 修复了注册申请在后台提醒处不会显示的bug；
+
 ### 11.1.20241208.3-DEV 
 
 Misskey For Hashi Ver 11.0.20241208.3-DEV 更新
