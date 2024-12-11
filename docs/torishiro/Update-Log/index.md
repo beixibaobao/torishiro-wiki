@@ -8,6 +8,13 @@ outline: deep
 
 ## Misskey For Hashi
 
+### 11.1.20241211.1-DEV 
+
+Misskey For Hashi Ver 11.0.202412111-DEV 更新
+
+1. 修复了后台导入不会删除多余的同名图片的问题；
+2. 修复了一个程序启动容易闪退的BUG；
+
 ### 11.1.20241209.1-DEV 
 
 Misskey For Hashi Ver 11.0.20241209.1-DEV 更新
